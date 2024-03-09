@@ -1,0 +1,72 @@
+Listening to server of smpt...
+onConnect fhqzuwsw5z3cc7ty
+Address: owaiseimdad@gmail.com session: fhqzuwsw5z3cc7ty
+Address: test@thetaai.work session: fhqzuwsw5z3cc7ty
+data: Received: by mail-lj1-f178.google.com with SMTP id 38308e7fff4ca-2d288bac3caso25420571fa.2
+        for <test@thetaai.work>; Sat, 09 Mar 2024 12:34:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1710016487; x=1710621287; darn=thetaai.work;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=3LIlplw/hbtrbZrcB5imei/WUJaAmvsTNOqKSR5lrxg=;
+        b=ISD/ybo5Z7nYj/uhRQcZAcJZiWfR5/fYXDcqfQSZVq+JpPWhXLNHK17eVBdySNaBJM
+         WnzriCiwFwyUNU5FumwTirjqiulMyfgzZMW88hvj/PwAAm+AJjp4KSFzMKsbQfLIe4G5
+         wK5e+VDAYnWhW2RbtEVPg3Hg30vOdo+65XX6UCXgNFYtg0LdLDmHOMmdFnfrOcMvsWvZ
+         5RsYFFa8MiREZdpPIdfrdK3ikfPzI6KKalOT6PnWQl2UU/XnJ5p6Hcc8YuSXvx4uXXY2
+         oxkAioj6CrPc3f2DA4jV/WHrdFosSFyzpSe7gH7WontwsNV8XbtRm8hHLpPrY0MoTpMu
+         3GbQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1710016487; x=1710621287;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=3LIlplw/hbtrbZrcB5imei/WUJaAmvsTNOqKSR5lrxg=;
+        b=dslerrJ8mDYxvqfU4aPJWK1PdhUVe3kpP1WpVtIQyrBSb5es9QtR/xAoU7tJq7MCQ3
+         NYpntH9Cz53jTqGWo0XrpnDHgOGbdWfm85JRkgqF17Ro/ccNt0xgSupIX9DavmD1J5j
+data: 6
+         b1s58i6U1WLD3rCeg141YGBWOCNIqawaTpnsKKcB1Dnw0PMGLCQQucaD2Spz+k+4br/4
+         +kgbKjoYpqFn8AgZBD6lHpsc9Qdj+iyNA80spu4Mmd+5dSMJgELaay4CcIF9fW26e4GA
+         kAttmntTcsOWjcwovCKYp6+XlslZbGExv9mF2pxFQCNklTgRGHpQYraU/PVBUpexOuPp
+         qGSQ==
+X-Gm-Message-State: AOJu0YyVnkoemrEXV0K6evggE6yNcSZxphWJesao93knY54KBz1HRb6s
+        7ETlpGUC7ACEXesxBe4SlQiCVZX7Iw5Ey2r3NOqmFsfySSKu4bhm+ljknn6UnwCoQoEXO3xn5K4
+        ibWUoMF5gvsBj24CTjuNd2wsibFn2/kcZvek=
+X-Google-Smtp-Source: AGHT+IEIEjSKH6br79NwRNC0NbJ7taQ23+JswAn1QCnlBFDLnl/wtL0n4XDgbXC2zLtvz31DDunxR9oLIV67IILORPg=
+X-Received: by 2002:ac2:42c8:0:b0:512:d78e:90fa with SMTP id
+ n8-20020ac242c8000000b00512d78e90famr1480207lfl.15.1710016486776; Sat, 09 Mar
+ 2024 12:34:46 -0800 (PST)
+MIME-Version: 1.0
+References: <CAJctTaBaKNFRR08kwEeOguAhNee3sL2L5Su08-TBqDKWMz1+pQ@mail.gmail.com>
+In-Reply-To: <CAJctTaBaKNFRR08kwEeOguAhNee3sL2L5Su08-TBqDKWMz1+pQ@mail.gmail.com>
+From: Owaise Imdad <owaiseimdad@gmail.com>
+Date: Sun, 10 Mar 2024 02:04:30 +0530
+Message-ID: <CAJctTaAGkx_x5kHEM141F2ikgkHnn8tu7yQizC0JhYsGKQXuzg@mail.gmail.com>
+Subject: Re: hi owaise
+To: test@thetaai.work
+Content-Type: multipart/alternative; boundary="000000000000412ae90613403da6"
+
+--000000000000412ae90613403da6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+hi dude
+
+On Sun, Mar 10, 2024 at 1:57=E2=80=AFAM Owaise Imdad
+data:  <owaiseimdad@gmail.com=
+> wrote:
+
+> hi owaise, this is for testing
+>
+
+--000000000000412ae90613403da6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">hi dude</div><br><div class=3D"gmail_quote"><div dir=3D"lt=
+r" class=3D"gmail_attr">On Sun, Mar 10, 2024 at 1:57=E2=80=AFAM Owaise Imda=
+d &lt;<a href=3D"mailto:owaiseimdad@gmail.com">owaiseimdad@gmail.com</a>&gt=
+; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px=
+ 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><div di=
+r=3D"ltr">hi owaise, this is for testing</div>
+</blockquote></div>
+
+--000000000000412ae90613403da6--
